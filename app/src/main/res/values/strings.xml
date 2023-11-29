@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SecureSecrets</string>
+
+    <string name="title_file_secret">File Secret</string>
+    <string name="title_pref_secret">Preference Secret</string>
+    <string name="lbl_save">Save</string>
+    <string name="lbl_reveal">Reveal</string>
+    <string name="lbl_hide">Hide</string>
+    <string name="msg_no_saved_secret">No saved secret</string>
+</resources>
